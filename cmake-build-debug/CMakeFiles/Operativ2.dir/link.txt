@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Operativ2.dir/mymem.c.o  -o Operativ2 

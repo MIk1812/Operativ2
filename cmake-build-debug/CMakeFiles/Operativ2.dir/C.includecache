@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/Desktop/Operativ2/mymem.c
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+mymem.h
+/home/parallels/Desktop/Operativ2/mymem.h
+
+/home/parallels/Desktop/Operativ2/mymem.h
+stdio.h
+-
+
