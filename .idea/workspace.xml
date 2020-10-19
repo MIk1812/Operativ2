@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Operativ2" targetName="Operativ2" />
@@ -11,7 +29,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a30365c2-2009-4d71-957f-b9fe3623451e" name="Default Changelist" comment="" />
+    <list default="true" id="a30365c2-2009-4d71-957f-b9fe3623451e" name="Default Changelist" comment="Init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +62,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -61,12 +76,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603117008091</updated>
-      <workItem from="1603117009581" duration="1053000" />
+      <workItem from="1603117009581" duration="1931000" />
+      <workItem from="1603119030487" duration="226000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1603118169781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603118169781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="584" y="256" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603117029190">
@@ -77,45 +116,49 @@
       <screen x="67" y="27" width="1568" height="962" />
     </state>
     <state x="622" y="250" width="447" height="513" key="FileChooserDialogImpl/67.27.1568.962@67.27.1568.962" timestamp="1603117437355" />
-    <state x="705" y="407" key="Github.ShareDialog" timestamp="1603118014767">
+    <state x="705" y="407" key="Github.ShareDialog" timestamp="1603118074121">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state x="705" y="407" key="Github.ShareDialog/67.27.1568.962@67.27.1568.962" timestamp="1603118014767" />
-    <state x="643" y="187" width="406" height="640" key="Github.UntrackedFilesDialog" timestamp="1603117865032">
+    <state x="705" y="407" key="Github.ShareDialog/67.27.1568.962@67.27.1568.962" timestamp="1603118074121" />
+    <state x="643" y="187" width="406" height="640" key="Github.UntrackedFilesDialog" timestamp="1603118117188">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state x="643" y="187" width="406" height="640" key="Github.UntrackedFilesDialog/67.27.1568.962@67.27.1568.962" timestamp="1603117865032" />
-    <state width="1522" height="248" key="GridCell.Tab.0.bottom" timestamp="1603117349804">
+    <state x="643" y="187" width="406" height="640" key="Github.UntrackedFilesDialog/67.27.1568.962@67.27.1568.962" timestamp="1603118117188" />
+    <state width="1522" height="307" key="GridCell.Tab.0.bottom" timestamp="1603118942438">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="248" key="GridCell.Tab.0.bottom/67.27.1568.962@67.27.1568.962" timestamp="1603117349804" />
-    <state width="1522" height="248" key="GridCell.Tab.0.center" timestamp="1603117349801">
+    <state width="1522" height="307" key="GridCell.Tab.0.bottom/67.27.1568.962@67.27.1568.962" timestamp="1603118942438" />
+    <state width="1522" height="307" key="GridCell.Tab.0.center" timestamp="1603118942437">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="248" key="GridCell.Tab.0.center/67.27.1568.962@67.27.1568.962" timestamp="1603117349801" />
-    <state width="1522" height="248" key="GridCell.Tab.0.left" timestamp="1603117349799">
+    <state width="1522" height="307" key="GridCell.Tab.0.center/67.27.1568.962@67.27.1568.962" timestamp="1603118942437" />
+    <state width="1522" height="307" key="GridCell.Tab.0.left" timestamp="1603118942437">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="248" key="GridCell.Tab.0.left/67.27.1568.962@67.27.1568.962" timestamp="1603117349799" />
-    <state width="1522" height="248" key="GridCell.Tab.0.right" timestamp="1603117349803">
+    <state width="1522" height="307" key="GridCell.Tab.0.left/67.27.1568.962@67.27.1568.962" timestamp="1603118942437" />
+    <state width="1522" height="307" key="GridCell.Tab.0.right" timestamp="1603118942438">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="248" key="GridCell.Tab.0.right/67.27.1568.962@67.27.1568.962" timestamp="1603117349803" />
-    <state width="1522" height="307" key="GridCell.Tab.1.bottom" timestamp="1603117344150">
+    <state width="1522" height="307" key="GridCell.Tab.0.right/67.27.1568.962@67.27.1568.962" timestamp="1603118942438" />
+    <state width="1522" height="307" key="GridCell.Tab.1.bottom" timestamp="1603118942441">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="307" key="GridCell.Tab.1.bottom/67.27.1568.962@67.27.1568.962" timestamp="1603117344150" />
-    <state width="1522" height="307" key="GridCell.Tab.1.center" timestamp="1603117344149">
+    <state width="1522" height="307" key="GridCell.Tab.1.bottom/67.27.1568.962@67.27.1568.962" timestamp="1603118942441" />
+    <state width="1522" height="307" key="GridCell.Tab.1.center" timestamp="1603118942439">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="307" key="GridCell.Tab.1.center/67.27.1568.962@67.27.1568.962" timestamp="1603117344149" />
-    <state width="1522" height="307" key="GridCell.Tab.1.left" timestamp="1603117344149">
+    <state width="1522" height="307" key="GridCell.Tab.1.center/67.27.1568.962@67.27.1568.962" timestamp="1603118942439" />
+    <state width="1522" height="307" key="GridCell.Tab.1.left" timestamp="1603118942439">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="307" key="GridCell.Tab.1.left/67.27.1568.962@67.27.1568.962" timestamp="1603117344149" />
-    <state width="1522" height="307" key="GridCell.Tab.1.right" timestamp="1603117344149">
+    <state width="1522" height="307" key="GridCell.Tab.1.left/67.27.1568.962@67.27.1568.962" timestamp="1603118942439" />
+    <state width="1522" height="307" key="GridCell.Tab.1.right" timestamp="1603118942441">
       <screen x="67" y="27" width="1568" height="962" />
     </state>
-    <state width="1522" height="307" key="GridCell.Tab.1.right/67.27.1568.962@67.27.1568.962" timestamp="1603117344149" />
+    <state width="1522" height="307" key="GridCell.Tab.1.right/67.27.1568.962@67.27.1568.962" timestamp="1603118942441" />
+    <state x="446" y="243" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1603119188952">
+      <screen x="67" y="27" width="1568" height="962" />
+    </state>
+    <state x="446" y="243" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1568.962@67.27.1568.962" timestamp="1603119188952" />
   </component>
 </project>
